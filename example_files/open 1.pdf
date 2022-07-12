@@ -1,0 +1,4 @@
+open 1.pdf
+open 2.pdf
+merge
+split every 1

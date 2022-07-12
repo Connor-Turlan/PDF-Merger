@@ -1,0 +1,6 @@
+open full_report.pdf
+open first_chapter.pdf
+insert 1
+split every 3
+save-all prefix-
+exit
